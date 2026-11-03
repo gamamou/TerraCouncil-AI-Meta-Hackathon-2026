@@ -1,0 +1,241 @@
+{
+  "generated_utc": "2026-11-03T16:14:22.589987+00:00",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "5009d4e622c906028a9c0f1ccc770a2ae46300ab1c74533544e0acc1e753d10a"
+    },
+    {
+      "path": "src/approve_oral_script.py",
+      "sha256": "d888eb9ae1f055757d149acc2cebdd0de26b2ace3874174da9c7fd5e369de3ef"
+    },
+    {
+      "path": "src/ask_dynamic_council.py",
+      "sha256": "b19f9a8dd747d7fdfb0374d4491014df6a4c5ac006d7fe93bcb0b93894ab8300"
+    },
+    {
+      "path": "src/build_council_ui.py",
+      "sha256": "5241a95d6ad1349e6258cf39cf11c184e5634e3fb2fb4ca34506f4efdbadb5cd"
+    },
+    {
+      "path": "src/chamber_visuals.py",
+      "sha256": "05b142f38403cc537a09f2a8351b70dc41197f52a385831613c703b964e695ce"
+    },
+    {
+      "path": "src/continue_debate.py",
+      "sha256": "695a93c1407d06d02fab0806dc71ac3134e957b0ed9571d7fb0f4456cc5aa39e"
+    },
+    {
+      "path": "src/council.py",
+      "sha256": "e6925f9e87ea30e702de0b64264c010a8d24bcf0b20025145dd50e36c1019f2c"
+    },
+    {
+      "path": "src/dynamic_brief.py",
+      "sha256": "7cb22c2422f3bbea1bbb24ed1907b9e73dfecaa6e3479576a7b40f0ef6a027a3"
+    },
+    {
+      "path": "src/dynamic_council.py",
+      "sha256": "df00cd5db4e3ccd6e478f96fb5a679eda5155eda88533d9aa43363e385ff642e"
+    },
+    {
+      "path": "src/dynamic_debate.py",
+      "sha256": "c0929211a74cf9e00cacf24dcf57f9ccd096f5cae6ebd0eb1b40e97a2b26c001"
+    },
+    {
+      "path": "src/dynamic_decision_matrix.py",
+      "sha256": "de312a9ecb3ad86e36fea362236d80a785eb04a741b176e4c101ad32289e8fd4"
+    },
+    {
+      "path": "src/dynamic_narration.py",
+      "sha256": "4a3ec633f7b2b7eff54ed45a973f010d5c46a0612bc7e464424c358ca8a6e449"
+    },
+    {
+      "path": "src/dynamic_oral_audit.py",
+      "sha256": "37344396a1e1cb6d30b11c88ffe6cdcaf37ab9ba260f9a0f3ead4a0d49b98633"
+    },
+    {
+      "path": "src/dynamic_quantification.py",
+      "sha256": "86bdf4df8f23421316ffecc42c3f7435e1ab3c921ac6313942fa97fc51ee5eca"
+    },
+    {
+      "path": "src/dynamic_readiness.py",
+      "sha256": "d48c92b36cb0b8986c41f765df8a85119c9a7d58b7f4da74cf4a3314ad2492e2"
+    },
+    {
+      "path": "src/dynamic_runtime.py",
+      "sha256": "07ea229f8a0d7a676b22965f99f985ecd3f9c17d2757663436301b71c01fcdad"
+    },
+    {
+      "path": "src/dynamic_voice_plan.py",
+      "sha256": "30c9f7d18fad5ed09a71b4e88a8ef5f5f1cfa658e90dd2f87fad7e3deef1e85d"
+    },
+    {
+      "path": "src/dynamic_voice_workflow.py",
+      "sha256": "cd8e100c0eb0afea0805bc001321965a7a50d1cf08b68023699dd510d6bd68e8"
+    },
+    {
+      "path": "src/elegant_decision_pdf.py",
+      "sha256": "05d905a85bfafa39967a1c1f946e62055fa9a77a757ddab2f5e03c6309a61828"
+    },
+    {
+      "path": "src/executive_brief_v3.py",
+      "sha256": "dffb39c8951e0e3f54550df4e5fdbaf142f827fb378c713362713c3f4eab8135"
+    },
+    {
+      "path": "src/export_decision_pdf.py",
+      "sha256": "0c76484c4643068a8138464b598f475d56fa9a8570153ec8dd6e32e6c8018fdf"
+    },
+    {
+      "path": "src/faith_asset_recovery_001.py",
+      "sha256": "942803cbb73dabb85b786c8fd485aaebae743a9355a22e9c01df31e676ce9b30"
+    },
+    {
+      "path": "src/faith_boke_context_guard_002e.py",
+      "sha256": "ecd8204140a0260d557a694f93770077a26cfcc6314c5d5f5699e81a445c80f0"
+    },
+    {
+      "path": "src/faith_chirps_aoi_guard_002i.py",
+      "sha256": "ee3124639e652528d0ed14f67208a99712da11151637f254527a1856ff3e97ef"
+    },
+    {
+      "path": "src/faith_dust_context_002l1.py",
+      "sha256": "0252a5786eb553fb48c1b5627a4bd19683a8ffcc07ae40c723fa86386dfeee23"
+    },
+    {
+      "path": "src/faith_dust_decision_protocol_002m.py",
+      "sha256": "4ada4a501b16197714f2dc1442bdf2c2fec369e79dbf6924d9fc6febe09eedd2"
+    },
+    {
+      "path": "src/faith_environmental_context_002k.py",
+      "sha256": "5c993868d14f1527d147a6ea3fa82f583757606ede0fb74f83e89ca801152ebb"
+    },
+    {
+      "path": "src/faith_indicator_expansion_002g.py",
+      "sha256": "8a7c7e848d5ebfe3fa8f78f6a4812a311a555610a2e84e08e4e8943eeaa16efe"
+    },
+    {
+      "path": "src/faith_maus_hansen_spatial_crosswalk_002j.py",
+      "sha256": "43a09201878ad555439f712a2a48911ee1f179e40273297b069115433abe98e9"
+    },
+    {
+      "path": "src/faith_multisource_case_002h.py",
+      "sha256": "5d37bab244dc181e2bfd5e6ecb5b957ab4ffc28d69a61c0c10d638cdf2f5aad0"
+    },
+    {
+      "path": "src/faith_question_source_selection_002.py",
+      "sha256": "74968f2af8da9a0ef2e2cc4b2029fd21394a17f56cca381e2a2d8d5f5a76c5b1"
+    },
+    {
+      "path": "src/faith_real_debate_preview_002f.py",
+      "sha256": "808615116f1875ce95bfdd1f923169452d3c65d8b04614a9b7a79ab3501b3326"
+    },
+    {
+      "path": "src/faith_scientific_evidence_bridge_002.py",
+      "sha256": "61b9c97c0d590d2ca66413a210011a9417fb0475f9f230a6f23c174ffd3e3e49"
+    },
+    {
+      "path": "src/fsdc_evidence_expansion.py",
+      "sha256": "8344deb024b9462fd8d44ab625186e1ee120d33217b4a1888018166451697bac"
+    },
+    {
+      "path": "src/fsdc_local_recovery.py",
+      "sha256": "40c5055b4aefc8f84ebc935cc4865cbfae135154ab8e72cee9008b3fef6043ce"
+    },
+    {
+      "path": "src/import_boke_010hi.py",
+      "sha256": "23918227cbf3b8997c3c7cecb2e9bb807b15568e5dce29e19f61d9e5477cba6f"
+    },
+    {
+      "path": "src/live_pilot.py",
+      "sha256": "13516cb02f7d1f830944b051bf1cf1b2f59d7ca314283525818035847f347bd8"
+    },
+    {
+      "path": "src/local_council_server.py",
+      "sha256": "de50dc4bb2cb7766eeddaa4ac707dd056901fddee9056fa1ec2663be1c3fe74a"
+    },
+    {
+      "path": "src/natural_french_dialogue.py",
+      "sha256": "c18e54ed6cd5924b20f77f1d0a1c826d2e9cd73260bf09e9d1ac70e30c913825"
+    },
+    {
+      "path": "src/prepare_chamber.py",
+      "sha256": "20e7f05984666e4bd171ec7e1a16e67c3542535d148f01411a0bd9497580b08d"
+    },
+    {
+      "path": "src/registry.py",
+      "sha256": "5a4accdc94dc64e0794deeaf22d513a99de7a3d115c1c559eed8840be9a6bead"
+    },
+    {
+      "path": "src/render_session_audio.py",
+      "sha256": "8cce80f4975a7143476dc8508effa1513ffe5bf90587463f7c36cd4c0605e71d"
+    },
+    {
+      "path": "src/scientific_pronunciation.py",
+      "sha256": "3bc24d6e5acf6aac73aa7aa862001ce64bbf72b51d087868b31747d6070de4df"
+    },
+    {
+      "path": "src/terra_agent_voice_registry_001.py",
+      "sha256": "08a73c43ec22158c12ed18700cda3e5099c462a88f866cc2980ce464df85a326"
+    },
+    {
+      "path": "src/terra_data_gateway.py",
+      "sha256": "3f3869802352ec1b125a694c49cf8f6e47c7874a58746cda98c581f4b1e2d720"
+    },
+    {
+      "path": "src/terra_demo_001_faith_gateway.py",
+      "sha256": "9dbcf3192454cd088c2635eabb6d2413cfea01ca49e41be2e63e71860259a160"
+    },
+    {
+      "path": "src/terra_french_numbers_001.py",
+      "sha256": "aedd721265de77a0f3f845c96cc35443d4170b813e960984b4e829b9e852e91e"
+    },
+    {
+      "path": "src/terra_identifier_speech_001.py",
+      "sha256": "555d550991fb5188f25ff3435b978105d13c9ba354e1fa6301c5294e8002740f"
+    },
+    {
+      "path": "src/terra_meta_013a_agent_loop.py",
+      "sha256": "a6a38f80646e1743a4b0c736b7affc14c5a6a195217420e2f607374adb935845"
+    },
+    {
+      "path": "src/terra_meta_013b_muse_runtime.py",
+      "sha256": "7580f5fdeeffcf368b05a8c32dcc8fdd4bb229d4018fd8a6ba382fcf020ad68d"
+    },
+    {
+      "path": "src/terra_meta_013c_adaptive_council.py",
+      "sha256": "d817420dc3a95a95c9cc712fd033065403753005802cd2486812f1783a22f775"
+    },
+    {
+      "path": "src/terra_voice_approval_002.py",
+      "sha256": "66a60a202382720e6134114ecfe444099fa59dd9cf15956a37a9a6eab93648fe"
+    },
+    {
+      "path": "src/terra_voice_auto_001.py",
+      "sha256": "3b7e9b3d5cb292886775c770a58c10b552e738ae581901708ad10c67fdce96ce"
+    },
+    {
+      "path": "src/terra_voice_editorial_001.py",
+      "sha256": "56aee71edf4636bb12e9a0f653b2df688f7eddf65e10d029aa7cd7f20832c2c0"
+    },
+    {
+      "path": "src/terra_voice_segmentation_001.py",
+      "sha256": "968c301dac41d857808a2c7232c0d639252ce7143d182ae49e6232b40d4a0ef8"
+    },
+    {
+      "path": "src/terra_voice_storage_002b.py",
+      "sha256": "9fa32782366b415f8781287a713a6595ff6f745229facae9e78585e6828afb97"
+    },
+    {
+      "path": "src/verification.py",
+      "sha256": "78e8709557538afcae2d2dcd52e275dc9a99d9c6770976a4b6e155bad0e23ac4"
+    },
+    {
+      "path": "src/verified_council.py",
+      "sha256": "e9f3f9fe84ef9e556aecf97ec884728a36a6e92c2721a5b2fa0b0bdb97112fdf"
+    },
+    {
+      "path": "src/voice_workflow.py",
+      "sha256": "da1b695526310fb7a49099aeaa8d9467dcd5975664fe0eea5537ef47a291d339"
+    }
+  ]
+}
