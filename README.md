@@ -2,8 +2,6 @@
 
 **SustainAfrica | FAITH — Future Africa Innovation & Transformation Hub**
 
-> **Source import pending.** This repository currently provides submission documentation. The verified 59-file source snapshot (`TERRA-META-GITHUB-SOURCE-RC1.zip`, created locally November 3, 2026) still needs to be imported. This repository is not yet a runnable clone.
-
 ## Why TerraCouncil?
 
 Decisions about mining, agricultural production and climate hazards require reconciling fragmented scientific evidence, conflicting priorities and uncertainty. TerraCouncil is a bilingual multi-agent decision-support prototype that makes scientific argument and critique inspectable.
@@ -40,12 +38,25 @@ This is a scientific *decision-support* prototype, not certified environmental o
 - [Reproducibility and acceptance protocol](docs/REPRODUCIBILITY.md)
 - [Security and responsible handling](SECURITY.md)
 
-## Build and installation
+## Running the source
 
-**Pending final 59-file source import.** We will provide commands verified against the actual RC1 modules and dependency manifests, rather than guessing them. The GitHub source repository may not independently reproduce private prerecorded Demo media.
+The **final RC1 source** has now been imported to `src/` and `demo/TERRA-META-DEMO-054/`. The local application was acceptance-tested on Windows using:
+
+```powershell
+$repo = "$HOME\\Documents\\TerraCouncil-Workspace\\Application\\TerraCouncil-Meta-Hackathon"
+$demo = Join-Path $repo "data\\science_packages\\TERRA-META-DEMO-054"
+Set-Location $demo
+python -X utf8 server.py
+```
+
+This is the **developer's validated local workspace**, not a promise that the public GitHub checkout is self-contained. The GitHub source uses `demo/TERRA-META-DEMO-054/` and `src/`; the private scientific inputs, recorded media, provider API keys and data paths are not included. A first-time clone may need environment setup and source-path configuration before it can run.
+
+The `requirements.txt` file records third-party Python imports detected in the foundational source; it is not an exhaustive, pinned dependency lockfile. The CI workflow performs offline syntax checks rather than external-service integration tests.
+
+See [Implementation map](docs/IMPLEMENTATION_MAP.md) and [Source review](docs/SOURCE_REVIEW.md).
 
 ## Attribution
 
 An original SustainAfrica/FAITH prototype developed for the Meta Hackathon Startup Track. Meta provides the reasoning models; ElevenLabs provides voice synthesis. Their APIs and services are not part of the source release.
 
-**Release label:** `TERRA-META-SUBMISSION-2026-11-03-RC1` (local build validated; GitHub source import pending).
+**Release label:** `TERRA-META-SUBMISSION-2026-11-03-RC1` (local build validated; GitHub source imported, private runtime assets excluded).
