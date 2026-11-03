@@ -1,0 +1,4 @@
+# Source-verified third-party imports from the RC1 src/ snapshot
+# Versions must be resolved and pinned after testing on the developer's final runtime.
+reportlab
+shapely
