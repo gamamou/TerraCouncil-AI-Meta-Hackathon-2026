@@ -1,0 +1,32 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*
+*secret*
+# Local python/runtime
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+# Private scientific data, generated assets and caches
+TerraCouncil-Scientific-Inputs/
+data/science_packages/
+*.mp3
+*.wav
+*.pdf
+*.sqlite
+*.db
+*.log
+# Working snapshots
+BACKUP-*/
+*-BACKUPS/
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
